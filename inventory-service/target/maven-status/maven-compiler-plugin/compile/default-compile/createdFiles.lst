@@ -1,0 +1,5 @@
+com\programming\tichi\inventoryservice\service\InventoryService.class
+com\programming\tichi\inventoryservice\controller\InventoryController.class
+com\programming\tichi\inventoryservice\model\Inventory.class
+com\programming\tichi\inventoryservice\InventoryServiceApplication.class
+com\programming\tichi\inventoryservice\repository\InventoryRepository.class
